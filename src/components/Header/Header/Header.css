@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    background-color: green;
+    align-items: center;
+}
+
+.header__logo {
+    width: 300px;
+}
+
+.header__title {
+    flex-grow: 1;
+    text-align: center;
+    padding-right: 300px;
+}
